@@ -26,4 +26,3 @@ let g:airline_theme='minimalist'
 
 " nerdtree setup
 map <C-n> :NERDTreeToggle<CR>
-
